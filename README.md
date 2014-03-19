@@ -1,2 +1,2 @@
-HTML5-Sprite-Sheet-Creator
-==========================
+HTML5-Photoshop-Sprite-Sheet-Creator
+====================================
