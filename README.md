@@ -1,4 +1,4 @@
 HTML5-Photoshop-Sprite-Sheet-Creator
 ====================================
 
-Documentation located at wmalone.com/spritesheet
+Documentation located at http://wmalone.com/spritesheet
